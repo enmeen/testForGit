@@ -1,0 +1,9 @@
+{
+  "name": "testForGit",
+  "version": "1.0.0",
+  "description": "testForGit",
+  "main": "index.js",
+  "repository": "https://github.com/enmeen/testForGit.git",
+  "author": "desen <desen@meili.com>",
+  "license": "MIT"
+}
